@@ -1,4 +1,4 @@
-:bear: **EXtended mAchine** is (or will be 😄) a GNU/EXA distribution that will allow you to run your desktop environment in any up-to-date web browser. The difference with other webOS is that EXtened mAchine will be able to run any application using POSIX interface.
+:bear: **EXtended mAchine** is (or will be 😄) a GNU/EXA distribution that will allow you to run your desktop environment in any up-to-date web browser. The difference with other webOS is that EXtended mAchine will be able to run any application using POSIX interface.
 
 **GNU/EXA distribution**: The purpose is to be able to port any tool and application belonging to the GNU ecosystem: Bash, vi, emacs, ... It will be a universal application store that will contain applications runnable in every web browser.
 
